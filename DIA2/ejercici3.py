@@ -1,4 +1,4 @@
-"""Calcula el área de un círculo."""
+"""Índice de masa corporal."""
 
 peso = float(input("Ingrese el peso del objeto en kg: "))
 altura = float(input("Ingrese la altura del objeto en metros: "))
